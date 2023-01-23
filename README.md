@@ -1,0 +1,1 @@
+# Zarzadzanie_informacja2
