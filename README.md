@@ -7,6 +7,10 @@ Wykorzystane biblioteki:
 * sqlalchemy
 * sqlalchemy_views
 
+Język: **C#** - ** Nieukończone **\
+Wykorzystane biblioteki:
+* Entity Framework
+
 ## Zadania
 
 ### Laboratorium 7
