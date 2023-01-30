@@ -7,7 +7,7 @@ Wykorzystane biblioteki:
 * sqlalchemy
 * sqlalchemy_views
 
-Język: **C#** - ** Nieukończone **\
+Język: **C#** - **Nieukończone**\
 Wykorzystane biblioteki:
 * Entity Framework
 
